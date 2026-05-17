@@ -1,0 +1,6 @@
+{
+  "name": "Markdown Studio",
+  "description": "A modern, minimalist markdown editor and previewer with split-pane layout, export options, and live rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
